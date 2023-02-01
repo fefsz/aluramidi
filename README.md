@@ -5,3 +5,6 @@ HTML e CSS providos pela instrutora do curso da Alura.
 
 # Conhecimentos aplicados
 Funções, listas, eventos e lógica.
+
+# Autor
+Filipe Augusto (twitter: @xfefs)
